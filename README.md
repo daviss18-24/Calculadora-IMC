@@ -10,7 +10,7 @@ Esse projeto é um aplicativo android nativo. Desenvolvido com a linguagem de pr
 -Activity
 -Intent
 -Snackbar
--ViewGrupous
+-ViewGrups
 -LinearLayout
 -Views
 -ImageView
